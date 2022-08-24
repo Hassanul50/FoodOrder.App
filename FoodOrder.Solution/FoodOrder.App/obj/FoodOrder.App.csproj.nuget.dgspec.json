@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\FoodOrder.Solution\\FoodOrder.App\\FoodOrder.App.csproj": {}
+    "H:\\FoodOrder.App\\FoodOrder.Solution\\FoodOrder.App\\FoodOrder.App.csproj": {}
   },
   "projects": {
-    "H:\\FoodOrder.Solution\\FoodOrder.App\\FoodOrder.App.csproj": {
+    "H:\\FoodOrder.App\\FoodOrder.Solution\\FoodOrder.App\\FoodOrder.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\FoodOrder.Solution\\FoodOrder.App\\FoodOrder.App.csproj",
+        "projectUniqueName": "H:\\FoodOrder.App\\FoodOrder.Solution\\FoodOrder.App\\FoodOrder.App.csproj",
         "projectName": "FoodOrder.App",
-        "projectPath": "H:\\FoodOrder.Solution\\FoodOrder.App\\FoodOrder.App.csproj",
+        "projectPath": "H:\\FoodOrder.App\\FoodOrder.Solution\\FoodOrder.App\\FoodOrder.App.csproj",
         "packagesPath": "C:\\Users\\Akib\\.nuget\\packages\\",
-        "outputPath": "H:\\FoodOrder.Solution\\FoodOrder.App\\obj\\",
+        "outputPath": "H:\\FoodOrder.App\\FoodOrder.Solution\\FoodOrder.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

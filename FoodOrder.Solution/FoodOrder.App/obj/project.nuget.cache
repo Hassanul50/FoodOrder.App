@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zsHvKE8QcC/leypNWl+NU2+e86QCWwfpw5Fwd9S7Mof2irLcyM/czT7fu4/BUXDKJIKo/GAlbhpEe8NS2ZP0HA==",
+  "dgSpecHash": "84QRS2ERHm1FCwfooEkDgIulovoaXF+SnkMi8u8NX3ru/QiXTQDqgkK2InFVThXckniC9tj24sSM/QZSsGkY/g==",
   "success": true,
-  "projectFilePath": "H:\\FoodOrder.Solution\\FoodOrder.App\\FoodOrder.App.csproj",
+  "projectFilePath": "H:\\FoodOrder.App\\FoodOrder.Solution\\FoodOrder.App\\FoodOrder.App.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
